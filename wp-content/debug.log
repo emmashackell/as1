@@ -1,0 +1,3 @@
+[30-Mar-2025 19:21:04 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 28672 bytes) in /workspaces/as1/.wordpress/wp-admin/includes/media.php on line 3411
+[30-Mar-2025 19:21:07 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in /workspaces/as1/.wordpress/wp-admin/includes/post.php on line 1558
+[30-Mar-2025 19:21:29 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 28672 bytes) in /workspaces/as1/.wordpress/wp-admin/includes/media.php on line 3265
